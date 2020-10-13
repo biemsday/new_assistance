@@ -1,0 +1,27 @@
+{
+  "name": "new_assistance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biemsday/new_assistance.git"
+  },
+  "author": "biemsday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biemsday/new_assistance/issues"
+  },
+  "homepage": "https://github.com/biemsday/new_assistance#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-metadata-parser": "^1.0.3",
+    "instagram-web-api": "^2.2.2",
+    "node-instagram": "^4.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
